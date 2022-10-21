@@ -1,7 +1,7 @@
 .nav {
-    position: fixed;
     top: 0;
     left: 0;
+    position: fixed;
     width: 100px;
     height: 100vh;
     background: #FFFFFF;
@@ -11,7 +11,7 @@
     transition: 0.3s;
 }
 
-.nav:hover{
+.nav:hover {
     width: 234px;
 }
 
